@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="100%" height="500px"/>
-![2206_w023_n003_2508b_p1_2508](https://github.com/SiddharthMathurDeveloper/SiddharthMathurDeveloper/assets/133037456/1932386b-559b-4f21-8eb7-f108b817713f)
+
 
 
 
