@@ -38,12 +38,12 @@
 
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=SiddharthMathurDeveloper&theme=radical&hide_border=true&border_radius=15)](https://git.io/streak-stats)
 
 
 
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SiddharthMathurDeveloper)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SiddharthMathurDeveloper)](https://git.io/streak-stats) -->
   
 
 ![](https://komarev.com/ghpvc/?username=SiddharthMathurDeveloper)
