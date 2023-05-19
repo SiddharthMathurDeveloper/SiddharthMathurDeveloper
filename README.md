@@ -24,15 +24,18 @@
 
 <h1>My Statistics</h1>
 
-<div style="background-color: green; width: 100%; height: auto;">
+
+
   
+
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddharthMathurDeveloper&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddharthMathurDeveloper&show_icons=true&theme=radical)
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthMathurDeveloper&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
 
 
 
