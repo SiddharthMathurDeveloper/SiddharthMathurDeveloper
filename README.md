@@ -2,7 +2,7 @@
 
 ![peakpx](https://github.com/SiddharthMathurDeveloper/SiddharthMathurDeveloper/assets/133037456/14130070-2967-472a-b44e-b3a87c57430d)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=SiddharthMathurDeveloper&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthMathurDeveloper&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SiddharthMathurDeveloper&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SiddharthMathurDeveloper)](https://git.io/streak-stats)
