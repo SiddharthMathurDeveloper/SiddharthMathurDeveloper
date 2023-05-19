@@ -2,6 +2,8 @@
 
 ![peakpx](https://github.com/SiddharthMathurDeveloper/SiddharthMathurDeveloper/assets/133037456/14130070-2967-472a-b44e-b3a87c57430d)
 
+<h1>My Trophies</h1>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=SiddharthMathurDeveloper&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
