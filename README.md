@@ -16,7 +16,7 @@
 
 <h1 align="left">Coding Platform</h1>
 <p align="left">
-<a href="https://leetcode.com/SiddharthMathurDev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/siddharthmathurdev/" height="30" width="40" /></a>
+<a href="https://leetcode.com/SiddharthMathurDev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/siddharthmathurdev/" height="30" width="40" /> LeetCode</a>
 </p>
 
 
