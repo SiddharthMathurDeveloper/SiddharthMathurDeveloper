@@ -20,7 +20,7 @@
   
 
   
-<a href="https://developers.google.com/profile/u/103832913875738913382?authuser=2" target="blank"><img align="center" src="" alt="https://leetcode.com/siddharthmathurdev/" height="30" width="40" />Google Developer Profile</a>
+<a href="https://developers.google.com/profile/u/103832913875738913382?authuser=2" target="blank"><img align="center" src="icons8-google.svg" alt="icons8-google.svg" height="30" width="40" />Google Developer Profile</a>
 </p>
 
 
