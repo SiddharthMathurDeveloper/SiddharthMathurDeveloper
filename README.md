@@ -35,6 +35,8 @@ icons8-geeksforgeeks.svg" alt="icons8-google.svg" height="30" width="40" />Geeks
 
 
 <h1>My Statistics</h1>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthMathurDeveloper&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddharthMathurDeveloper&show_icons=true&theme=radical)
 
@@ -43,7 +45,6 @@ icons8-geeksforgeeks.svg" alt="icons8-google.svg" height="30" width="40" />Geeks
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthMathurDeveloper&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
