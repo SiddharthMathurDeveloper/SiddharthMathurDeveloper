@@ -17,6 +17,10 @@
 <h1 align="left">Coding Platform</h1>
 <p align="left">
 <a href="https://leetcode.com/SiddharthMathurDev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/siddharthmathurdev/" height="30" width="40" /> LeetCode</a>
+  
+
+  
+<a href="https://developers.google.com/profile/u/103832913875738913382?authuser=2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/siddharthmathurdev/" height="30" width="40" />Google Developer Profile</a>
 </p>
 
 
