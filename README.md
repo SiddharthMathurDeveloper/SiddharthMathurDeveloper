@@ -55,7 +55,7 @@ icons8-geeksforgeeks.svg" alt="icons8-google.svg" height="30" width="40" />Geeks
 
 <h1>My Certifications and Achievements</h1>
 
-
+<h2><img align="center" src="icons8-udemy.svg" alt="icons8-udemy.svg" height="30" width="40" />  Udemy   <h2/>
 
 
 
