@@ -39,12 +39,14 @@ icons8-geeksforgeeks.svg" alt="icons8-google.svg" height="30" width="40" />Geeks
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddharthMathurDeveloper&show_icons=true&theme=radical)
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=SiddharthMathurDeveloper&theme=radical&hide_border=true&border_radius=15)](https://git.io/streak-stats)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthMathurDeveloper&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SiddharthMathurDeveloper&theme=radical&hide_border=true&border_radius=15)](https://git.io/streak-stats)
 
 
   
