@@ -25,7 +25,7 @@
   <a href="https://auth.geeksforgeeks.org/user/siddharthmath9mjc/" target="blank"><img align="center" src="
 icons8-geeksforgeeks.svg" alt="icons8-google.svg" height="30" width="40" />GeeksforGeeks</a>
   
-  <a href="https://leetcode.com/SiddharthMathurDev/" target="blank"><img align="center" src="hackerrank.svg" alt="https://leetcode.com/siddharthmathurdev/" height="30" width="40" /> Hackerrank</a>
+  <a href="https://www.hackerrank.com/siddharthmathur8" target="blank"><img align="center" src="hackerrank.svg" alt="https://leetcode.com/siddharthmathurdev/" height="30" width="40" /> Hackerrank</a>
   
 
   
