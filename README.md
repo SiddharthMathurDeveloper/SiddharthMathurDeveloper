@@ -16,11 +16,16 @@
 
 
 <h1 align="left">Coding Platform</h1>
+
 <p align="left">
+  
+  
 <a href="https://leetcode.com/SiddharthMathurDev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/siddharthmathurdev/" height="30" width="40" /> LeetCode</a>
   
   <a href="https://auth.geeksforgeeks.org/user/siddharthmath9mjc/" target="blank"><img align="center" src="
 icons8-geeksforgeeks.svg" alt="icons8-google.svg" height="30" width="40" />GeeksforGeeks</a>
+  
+  <a href="https://leetcode.com/SiddharthMathurDev/" target="blank"><img align="center" src="hackerrank.svg" alt="https://leetcode.com/siddharthmathurdev/" height="30" width="40" /> Hackerrank</a>
   
 
   
