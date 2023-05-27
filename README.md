@@ -2,6 +2,7 @@
 
 ![peakpx](https://github.com/SiddharthMathurDeveloper/SiddharthMathurDeveloper/assets/133037456/14130070-2967-472a-b44e-b3a87c57430d)
 ![](https://komarev.com/ghpvc/?username=SiddharthMathurDeveloper)
+![Progress](https://progress-bar.dev/10/)
 <h1>My Trophies</h1>
 
 
